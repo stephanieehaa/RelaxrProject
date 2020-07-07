@@ -1,0 +1,29 @@
+
+.Relaxr h1 {
+  background: url(../images/header_bg.jpg);
+  display: flex;
+  padding: 60px 50px 50px 40px;
+  color: white;
+  font-size: 30px;
+  margin: 0px;
+}
+  .Relaxr p{
+  text-align: center;
+  display: cover;
+  background: #e0d8d7;
+  padding: 80px 50px 60px 40px;
+  margin: ;
+
+}
+
+.Relxar button {
+  align-items: : center;
+  background color: #f9e42e;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+
+ 
+
